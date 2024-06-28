@@ -1,0 +1,10 @@
+{
+  
+    "Title": "Notice",
+    "Content": [
+      "Dear Pikamasters,\n\tDuring Closed Beta Test,from 10 AM on May 9-10 AM on May 16 (UTC), only NFT holders and people whitelisted are able to log in the game. If you have any questions, please contact community managers for help.",      
+    ],
+    "Sign": "Pikaster team",
+    "Time": ""
+  
+}
